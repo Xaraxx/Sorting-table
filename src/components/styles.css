@@ -1,0 +1,29 @@
+.App {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.buttons {
+  font-family: 'Montserrat', sans-serif;
+  padding: 20px 20px;
+}
+
+/* thead {
+  color: green;
+}
+tbody {
+  color: blue;
+}
+tfoot {
+  color: red;
+} */
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+td,
+th {
+  padding: 5px;
+}
